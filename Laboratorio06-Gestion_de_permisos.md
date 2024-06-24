@@ -37,10 +37,10 @@ bazan-darczuk@bazandarczuk-VirtualBox:~/Escritorio/actividad_permisos$
 
 | **Nombre**      | **Permisos Actuales**                  |
 |-----------------|----------------------------------------|
-| archivoA.txt	  |-rw-rw-r-- 1 bazan-darczuk bazan-darczuk|
-| archivoB.txt    |-rw-rw-r-- 1 bazan-darczuk bazan-darczuk|
-| archivoC.txt    |-rw-rw-r-- 1 bazan-darczuk bazan-darczuk|
-| subdirectorio   |drwxrwxr-x 2 bazan-darczuk bazan-darczuk|
+| archivoA.txt	  |-rw-rw-r-- 1 |
+| archivoB.txt    |-rw-rw-r-- 1 |
+| archivoC.txt    |-rw-rw-r-- 1 |
+| subdirectorio   |drwxrwxr-x 2 |
 
 ### 4. Modificación de Permisos
 Cambia los permisos de archivoA.txt para que el usuario tenga permisos de lectura y escritura, el grupo solo lectura y otros no tengan permisos.
@@ -70,10 +70,10 @@ Anota los nuevos permisos de cada archivo y directorio en la siguiente tabla:
 
 | **Nombre**      | **Permisos Actuales**                  |
 |-----------------|----------------------------------------|
-| archivoA.txt	  |-rw-r----- 1 bazan-darczuk bazan-darczuk|
-| archivoB.txt    |-rw-rw-r-- 1 bazan-darczuk bazan-darczuk|
-| archivoC.txt    |-rwxr-x--x 1 bazan-darczuk bazan-darczuk|
-| subdirectorio   |drwxr-xr-x 2 bazan-darczuk bazan-darczuk|
+| archivoA.txt	  |-rw-r----- 1 |
+| archivoB.txt    |-rw-rw-r-- 1 |
+| archivoC.txt    |-rwxr-x--x 1 |
+| subdirectorio   |drwxr-xr-x 2 |
 
 ### 6. Cambio de Propietarios
 1. Cambia el propietario de archivoA.txt a otro usuario (reemplaza otro_usuario con el nombre de un usuario existente en el sistema o crealo).
