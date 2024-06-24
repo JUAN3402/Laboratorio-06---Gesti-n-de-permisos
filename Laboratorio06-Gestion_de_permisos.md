@@ -113,4 +113,5 @@ bazan-darczuk@bazandarczuk-VirtualBox:~/Escritorio/actividad_permisos$
 ### 8. Reflexión
 ¿Qué diferencias observaste en el comportamiento de los archivos y directorios al cambiar sus permisos y propietarios?
 ¿Por qué es importante gestionar correctamente los permisos en un sistema Linux?
+
 Gestionar correctamente los permisos y propietarios en un sistema Linux es crucial por varias razones clave: garantiza la seguridad al controlar quién puede acceder y modificar archivos, protege la integridad de los datos evitando modificaciones no autorizadas, facilita la colaboración al permitir accesos controlados en entornos compartidos, y asegura el cumplimiento normativo al establecer políticas de acceso adecuadas. Esto no solo fortalece la seguridad del sistema, sino que también mejora la eficiencia operativa al prevenir errores y facilitar la gestión administrativa de recursos.
